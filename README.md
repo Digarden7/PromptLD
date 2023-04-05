@@ -11,7 +11,6 @@
 
 ## GPT-4的回答
 好的，现在我们来开始你的英语学习之旅。  
-
 首先，让我们来学习有关火车站的常用单词。
 故事段落：
 Sarah had planned a trip to visit her family in the countryside. She arrived at the train station early to ensure she would not miss her train. Sarah entered the station and headed towards the ticket counter to purchase her ticket. She walked through the waiting area and found a comfortable seat to wait for her train. The announcement came over the loudspeaker that her train was arriving, so she quickly gathered her luggage and made her way to the platform. Sarah then boarded her train and found her reserved seat. She enjoyed her journey and arrived safely at her destination.
