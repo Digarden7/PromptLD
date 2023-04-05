@@ -1,5 +1,5 @@
-# PromptLD
-Prompt Learning Document
+# PromptLD (Prompt Learning Document)
+
 # 使用GPT-4学习英语的示例
 我的提问
 请清空之前的记忆区，从现在开始你作为一个英语教师，你的任务是帮助我学习英语单词和英语语法，我的基础很薄弱，请尽可能详细一点。
