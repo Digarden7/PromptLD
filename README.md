@@ -40,21 +40,21 @@
 
 - **语法分析：** 
 
-  1.句子1是一个简单句，由主语Sarah、谓语planned和宾语a trip组成，表示主语做了一个动作。
+  句子1是一个简单句，由主语Sarah、谓语planned和宾语a trip组成，表示主语做了一个动作。
 
-   2. 句子2是一个简单句，由主语She、谓语arrived和状语at the train station early组成，表示主语到达了地点。 
+   句子2是一个简单句，由主语She、谓语arrived和状语at the train station early组成，表示主语到达了地点。 
 
-  3.句子3是一个由and连接的并列语句，第一部分由主语Sarah、谓语entered和宾语the station, 第二部分由主语She、谓语headed和宾语towards the ticket counter to purchase her ticket组成，表示主语先进了车站，然后朝着买票处走去。第二部分是一个不定式短语作宾语。 
+  句子3是一个由and连接的并列语句，第一部分由主语Sarah、谓语entered和宾语the station, 第二部分由主语She、谓语headed和宾语towards the ticket counter to purchase her ticket组成，表示主语先进了车站，然后朝着买票处走去。第二部分是一个不定式短语作宾语。 
 
-  4.句子4是一个由and连接的并列语句，第一部分由主语She、谓语walked和宾语through the waiting area, 第二部分由主语She、谓语found和宾语a comfortable seat to wait for her train组成，表示主语穿过了候车区，找到了一个舒适的座位等待火车。第二部分是一个不定式短语作宾语。 
+  句子4是一个由and连接的并列语句，第一部分由主语She、谓语walked和宾语through the waiting area, 第二部分由主语She、谓语found和宾语a comfortable seat to wait for her train组成，表示主语穿过了候车区，找到了一个舒适的座位等待火车。第二部分是一个不定式短语作宾语。 
 
-  5.句子5是一个复合句，由主语The announcement、谓语came over the loudspeaker和时间状语从句that her train was arriving组成，表示广播传来了火车即将到站的通知。 
+  句子5是一个复合句，由主语The announcement、谓语came over the loudspeaker和时间状语从句that her train was arriving组成，表示广播传来了火车即将到站的通知。 
 
-  6.句子6是一个由and连接的并列语句，第一部分由主语She、谓语quickly gathered和宾语her luggage，第二部分由主语She、谓语made her way和宾语to the platform组成，表示主语迅速收拾好行李，走到了站台。 
+  句子6是一个由and连接的并列语句，第一部分由主语She、谓语quickly gathered和宾语her luggage，第二部分由主语She、谓语made her way和宾语to the platform组成，表示主语迅速收拾好行李，走到了站台。 
 
-  7.句子7是一个由and连接的并列语句，第一部分由主语Sarah、谓语boarded和宾语her train，第二部分由主语和宾语组成，表示主语找到了自己预订的座位。 
+  句子7是一个由and连接的并列语句，第一部分由主语Sarah、谓语boarded和宾语her train，第二部分由主语和宾语组成，表示主语找到了自己预订的座位。 
 
-  8. 句子8是一个简单句，由主语She、谓语enjoyed和宾语her journey和时间状语短语in her train和方式状语短语safely组成，表示主语享受了旅程且安全地到达了目的地。
+  句子8是一个简单句，由主语She、谓语enjoyed和宾语her journey和时间状语短语in her train和方式状语短语safely组成，表示主语享受了旅程且安全地到达了目的地。
 
 
 
